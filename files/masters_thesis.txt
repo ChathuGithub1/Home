@@ -1,0 +1,10 @@
+@BOOK{Weeraddana-07,
+  author = {P. C. Weeraddana},
+  title = {Performance Analysis of OFDM Systems with Random Residual Frequency Offset},
+  series = {M.Eng. thesis, Centre for Wireless Communications, University of Oulu},
+  publisher = {},
+  address = {Thailand},
+  month = {May},
+  year = {2007},
+  note={[Online]. Available: \url{http://www.ee.kth.se/~chatw/MasterThesis.pdf}},
+}

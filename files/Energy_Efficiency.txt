@@ -1,0 +1,16 @@
+@ARTICLE{Ding-Atapattu-Weeraddana-Evans-2021,
+  AUTHOR =       {M. Ding, S. Atapattu, P. C. Weeraddana, and J. Evans},
+  TITLE =        {Energy-Efficiency Fairness of Interference Multi-Relay Networks for Multi-User Communications},
+  JOURNAL =      {IEEE Commun. Lettrs},
+  YEAR =         {2021},
+  volume =       {25},
+  number =       {3},
+  pages =        {},
+  month =        {March},
+  note =   	 {},
+  abstract =     {},
+  keywords =     {},
+  source =       {},
+}
+
+

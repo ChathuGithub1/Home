@@ -1,0 +1,11 @@
+@ARTICLE{Joshi-Weeraddana-Codreanu-Latva-aho-SP-12,
+    author= {S.~Joshi and P. C. Weeraddana and M. Codreanu and M. Latva-aho},
+    title=  {Weighted Sum-Rate Maximization for {MISO} Downlink Cellular Networks via Branch and Bound},
+    journal= {{IEEE} Trans. Signal Processing},
+    year=   {2012},
+    volume= {60},
+    number= {4},
+    pages=  {2090-2095},
+    month=  {Apr.},
+    note=   {},
+}

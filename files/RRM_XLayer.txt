@@ -1,0 +1,11 @@
+@ARTICLE{Weeraddana-Codreanu-Latva-aho-Ephremides-TVT-11,
+    author= {P. C. Weeraddana and M. Codreanu and M. Latva-aho and  A. Ephremides},
+    title=  {Resource Allocation for Cross-Layer Utility Maximization in Wireless Networks},
+    journal= {{IEEE} Transactions on Vehicular Technology},
+    year=   {2011},
+    volume= {60},
+    number= {6},
+    pages=  {2790-2809},
+    month=  {July},
+    note= {},
+}

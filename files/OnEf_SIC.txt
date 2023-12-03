@@ -1,0 +1,11 @@
+@ARTICLE{Weeraddana-Codreanu-Latva-aho-Ephremides-EURASIP-10,
+    author= {P. C. Weeraddana and M. Codreanu and M. Latva-aho and  A. Ephremides},
+    title=  {On the Effect of Self-Interference Cancelation in MultiHop Wireless Networks},
+    journal= {{EURASIP} Journal on Wireless Communications and Networking},
+    year =  {2010},
+    volume= {2010, Article ID 513952, 10~pages},
+    number= {},
+    pages=  {},
+    month=  {},
+    note=   {doi:10.1155/2010/513952},
+}

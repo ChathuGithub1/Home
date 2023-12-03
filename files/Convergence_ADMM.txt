@@ -1,0 +1,16 @@
+@ARTICLE{Magnusson-Weeraddana-Fischione-Rabbat-2016,
+  AUTHOR =       {S. Magn\'{u}sson and P. C. Weeraddana and C. Fischione and M. G. Rabbat},
+  TITLE =        {On the Convergence of Alternating Direction Lagrangian Methods for Nonconvex Structured Optimization Problems},
+  JOURNAL =      {IEEE Trans. Control of Network Sys.},
+  YEAR =         {2016},
+  volume =       {3},
+  number =       {3},
+  pages =        {},
+  month =        {September},
+  abstract =     {},
+  keywords =     {},
+  source =       {},
+}
+
+
+

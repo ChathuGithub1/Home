@@ -1,0 +1,10 @@
+@BOOK{Weeraddana-11,
+  author = {P. C. Weeraddana},
+  title = {Optimization Techniques for Radio Resource Management in Wireless Communication Networks},
+  series = {Ph.D. thesis, Centre for Wireless Communications, University of Oulu},
+  publisher = {Acta Universitatis Ouluensis},
+  address = {Oulu, Finland},
+  month = {Nov.},
+  year = {2011},
+  note={[Online]. Available: \url{http://herkules.oulu.fi/isbn9789514296550/isbn9789514296550.pdf}},
+}

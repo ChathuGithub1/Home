@@ -1,0 +1,16 @@
+@ARTICLE{Levorato-Weeraddana-Fischione-2016,
+  AUTHOR =       {M. Levorato and P. C. Weeraddana and C. Fischione},
+  TITLE =        {Distributed Optimization of Channel Access Strategies in Reactive Cognitive Networks},
+  JOURNAL =      {IEEE Trans. Communications},
+  YEAR =         {2016},
+  volume =       {64},
+  number =       {10},
+  pages =        {},
+  month =        {October},
+  abstract =     {},
+  keywords =     {},
+  source =       {},
+}
+
+
+

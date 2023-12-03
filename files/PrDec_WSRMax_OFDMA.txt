@@ -1,0 +1,11 @@
+@ARTICLE{Weeraddana-Codreanu-Wei-Latva-aho-EURASIP-10,
+    author= {P. C. Weeraddana and M. Codreanu and L. Wei and M. Latva-aho},
+    title=  {Primal Decomposition-Based Method for Weighted Sum-Rate Maximization in Downlink {OFDMA} Systems},
+    journal=  {{EURASIP} Journal on Wireless Communications and Networking},
+    year =  {2010},
+    volume= {2010, Article ID 324780, 9~pages},
+    number= {},
+    pages=  {},
+    month=  {},
+    note=   {doi:10.1155/2010/324780},
+}

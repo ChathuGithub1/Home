@@ -1,0 +1,16 @@
+@ARTICLE{Jakobsson-Magnusson-Fischione-Weeraddana-2016,
+  AUTHOR =       {M. Jakobsson and S. Magn\'{u}sson and C. Fischione and P. C. Weeraddana},
+  TITLE =        {Extensions of Fast-Lipschitz Optimization},
+  JOURNAL =      {IEEE Trans. Auto. Control},
+  YEAR =         {2016},
+  volume =       {61},
+  number =       {4},
+  pages =        {},
+  month =        {April},
+  abstract =     {},
+  keywords =     {},
+  source =       {},
+}
+
+
+

@@ -1,0 +1,16 @@
+@ARTICLE{Xu-Alfonsetti-Weeraddana-Fischione-2018,
+  AUTHOR =       {Y. Xu and E. Alfonsetti and P. C. Weeraddana and C. Fischione},
+  TITLE =        {A Semidistributed Approach for the Feasible Min-Max Fair Agent-Assignment Problem with Privacy Guarantees},
+  JOURNAL =      {IEEE Trans. Control of Network Sys.},
+  YEAR =         {2018},
+  volume =       {5},
+  number =       {1},
+  pages =        {},
+  month =        {March},
+  note =   	 {},
+  abstract =     {},
+  keywords =     {},
+  source =       {},
+}
+
+

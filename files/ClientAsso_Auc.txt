@@ -1,0 +1,10 @@
+@ARTICLE{Athanasiou-etal-2013,
+author={G. Athanasiou and P. C. Weeraddana and  C. Fischione},
+journal={Communications Letters, IEEE},
+title={Auction-Based Resource Allocation in MillimeterWave Wireless Access Networks},
+year={2013},
+month={Nov.},
+volume={17},
+number={11},
+pages={2108-2111},
+}

@@ -1,0 +1,10 @@
+@ARTICLE{Weeraddana-Codreanu-etal-12,
+  author = {P. C. Weeraddana and M. Codreanu and M. Latva-aho and  A. Ephremides and Carlo Fischione},
+  title = {Weighted Sum-Rate Maximization in Wireless Networks: A Review},
+  journal = {Foundations and Trends in Networking},
+  volume = {6},
+  number = {1-2},
+  pages = {1-163},
+  month = {},
+  year = {2012},
+}

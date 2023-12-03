@@ -1,0 +1,14 @@
+@ARTICLE{Athanasiou-Weeraddana-etal-2015,
+  AUTHOR =       {G. Athanasiou and P. C. Weeraddana and  C. Fischione and L. Tassiulas},
+  TITLE =        {Optimizing Client Association in {60 GHz} Wireless Access Networks},
+  JOURNAL =      {IEEE/ACM Trans. Networking},
+  YEAR =         {2015},
+  volume =       {23},
+  number =       {3},
+  pages =        {},
+  month =        {June},
+  abstract =     {},
+  keywords =     {},
+  source =       {},
+}
+

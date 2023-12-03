@@ -1,0 +1,11 @@
+@ARTICLE{Weeraddana-Codreanu-Latva-aho-Ephremides-TSP-11,
+    author= {P. C. Weeraddana and M. Codreanu and M. Latva-aho and  A. Ephremides},
+    title=  {Weighted Sum-Rate Maximization for a Set of Interfering Links via Branch and Bound},
+    journal={{IEEE} Trans. Signal Processing},
+    year=   {2011},
+    volume= {59},
+    number= {8},
+    pages=  {3977-3996},
+    month=  {Aug.},
+    note= {},
+}

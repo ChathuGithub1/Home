@@ -1,0 +1,15 @@
+@ARTICLE{Magnusson-Weeraddana-Fischione-2015,
+  AUTHOR =       {Magn\'{u}sson and P. C. Weeraddana and C. Fischione},
+  TITLE =        {A Distributed Approach for the Optimal Power Flow Problem Based on ADMM and Sequential Convex Approximations},
+  JOURNAL =      {IEEE Trans. Control of Network Sys.},
+  YEAR =         {2015},
+  volume =       {2},
+  number =       {3},
+  pages =        {},
+  month =        {September},
+  abstract =     {},
+  keywords =     {},
+  source =       {},
+}
+
+

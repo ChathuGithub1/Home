@@ -1,0 +1,10 @@
+@ARTICLE{Weeraddana-Rajatheva-Minn-TCOM-09,
+    author= {P. C. Weeraddana and R. M. A. P. Rajatheva and H. Minn},
+    title=  {Probability of Error Analysis of {BPSK OFDM} Systems with Random Residual Frequency Offset},
+    journal= {{IEEE} Transactions on Communications},
+    year=   {2009},
+    month=  {Jan.},
+    volume= {57},
+    number= {1},
+    pages=  {106-116}
+}

@@ -1,0 +1,9 @@
+@article{abeynanda2023primal,
+  title={On the Primal Feasibility in Dual Decomposition Methods Under Additive and Bounded Errors},
+  author={Abeynanda, Hansi and Weeraddana, Chathuranga and Lanel, GHJ and Fischione, Carlo},
+  journal={IEEE Transactions on Signal Processing},
+  volume={71},
+  pages={655--669},
+  year={2023},
+  publisher={IEEE}
+}

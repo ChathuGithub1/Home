@@ -1,0 +1,7 @@
+@article{ranaweera2023convergence,
+  title={On the Convergence of Inexact Gradient Descent with Controlled Synchronization Steps},
+  author={Ranaweera, Sandushan and Weeraddana, Chathuranga and Dharmawansa, Prathapasinghe and Fischione, Carlo},
+  journal={IEEE Signal Processing Letters},
+  year={2023},
+  publisher={IEEE}
+}

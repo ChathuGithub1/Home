@@ -1,0 +1,18 @@
+# jemdoc: menu{MENU}{}
+= Introduction to Mathematical Optimization: Matlab 
+
+=== Matlab files
+- Example 1 [files/matlab/Boyd_CVX_example1.m /(Download)/]
+- Example 2 [files/matlab/Boyd_CVX_example2.m /(Download)/]
+- Example 3 [files/matlab/Boyd_CVX_example3.m /(Download)/]
+- Example 4 [files/matlab/Boyd_CVX_example4.m /(Download)/]
+- Example 5 [files/matlab/dualProblem.m /(Download)/]
+- Example 6 [files/matlab/dualProblem_2.m /(Download)/]
+
+=== Data files
+- Data 1 [files/matlab/data_floorplan_60.mat /(Download)/]
+
+
+
+
+
